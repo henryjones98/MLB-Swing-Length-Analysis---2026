@@ -1,2 +1,2 @@
 ### MLB Swing Length Analysis - 2026 ###
-This study takes a deep dive into the Bat Speed - Launch Angle Revolution in Major League Baseball and how we might want to rethink how we view Swing Design in Professional Baseball.
+This study takes a deep dive into how we might be overlooking the evaluation of hitter Swing Length in Major League Baseball. It also studies the Exit Velocity-Launch Angle Revolution in Baseball and how Swing Length and Attack Angle interact with other Batted Ball Metrics, thus providing a different perspective on modern hitting.
